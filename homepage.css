@@ -1,4 +1,17 @@
-#home tr{
-    color: wheat;
-    font-size: large;
+table{
+     background-color: black;
 }
+table th{
+    background-color: grey;
+    align-items: center;
+    color: white;
+    font-size: large;
+    font: 200;
+}
+td{
+    background-color: lightgrey;
+    align-items: center;
+    color: black;
+    font: 100;
+}
+
